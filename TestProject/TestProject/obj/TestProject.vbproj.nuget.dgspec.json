@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Railey brrt brrtt\\Codes\\TestProject\\TestProject\\TestProject.vbproj": {}
+    "C:\\Users\\Jann Railey\\Source\\Repos\\TestProject\\TestProject\\TestProject\\TestProject.vbproj": {}
   },
   "projects": {
-    "C:\\Railey brrt brrtt\\Codes\\TestProject\\TestProject\\TestProject.vbproj": {
+    "C:\\Users\\Jann Railey\\Source\\Repos\\TestProject\\TestProject\\TestProject\\TestProject.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Railey brrt brrtt\\Codes\\TestProject\\TestProject\\TestProject.vbproj",
+        "projectUniqueName": "C:\\Users\\Jann Railey\\Source\\Repos\\TestProject\\TestProject\\TestProject\\TestProject.vbproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Railey brrt brrtt\\Codes\\TestProject\\TestProject\\TestProject.vbproj",
+        "projectPath": "C:\\Users\\Jann Railey\\Source\\Repos\\TestProject\\TestProject\\TestProject\\TestProject.vbproj",
         "packagesPath": "C:\\Users\\Jann Railey\\.nuget\\packages\\",
-        "outputPath": "C:\\Railey brrt brrtt\\Codes\\TestProject\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Jann Railey\\Source\\Repos\\TestProject\\TestProject\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jann Railey\\AppData\\Roaming\\NuGet\\NuGet.Config",

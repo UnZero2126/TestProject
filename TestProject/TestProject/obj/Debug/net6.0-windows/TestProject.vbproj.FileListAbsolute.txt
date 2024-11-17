@@ -1,0 +1,17 @@
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\bin\Debug\net6.0-windows\TestProject.exe
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\bin\Debug\net6.0-windows\TestProject.deps.json
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\bin\Debug\net6.0-windows\TestProject.runtimeconfig.json
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\bin\Debug\net6.0-windows\TestProject.dll
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\bin\Debug\net6.0-windows\TestProject.pdb
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.vbproj.AssemblyReference.cache
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.Form1.resources
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.vbproj.GenerateResource.cache
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.AssemblyInfoInputs.cache
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.AssemblyInfo.vb
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.vbproj.CoreCompileInputs.cache
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.dll
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\refint\TestProject.dll
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.pdb
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\TestProject.genruntimeconfig.cache
+C:\Users\Jann Railey\Source\Repos\TestProject\TestProject\TestProject\obj\Debug\net6.0-windows\ref\TestProject.dll
